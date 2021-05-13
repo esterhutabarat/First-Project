@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyek_Teknet_11", "Proyek_Teknet_11\Proyek_Teknet_11.csproj", "{BA4B7677-F338-44B7-9B69-8BB2FFDE4CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPOM", "BPOM\BPOM.csproj", "{86FE8F2D-CA6C-4F02-B9C2-683130D5D48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4B7677-F338-44B7-9B69-8BB2FFDE4CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4B7677-F338-44B7-9B69-8BB2FFDE4CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4B7677-F338-44B7-9B69-8BB2FFDE4CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4B7677-F338-44B7-9B69-8BB2FFDE4CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FE8F2D-CA6C-4F02-B9C2-683130D5D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FE8F2D-CA6C-4F02-B9C2-683130D5D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FE8F2D-CA6C-4F02-B9C2-683130D5D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FE8F2D-CA6C-4F02-B9C2-683130D5D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F597F6C-6050-4C91-9CE0-AC3BCCC7089B}
+	EndGlobalSection
+EndGlobal
